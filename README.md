@@ -1,1 +1,1 @@
-# okbeanie-lessons
+Okbeanie lessons and variety dashboard
